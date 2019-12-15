@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/qlda/static/css/main.220dd7ce.chunk.css",
-    "main.js": "/qlda/static/js/main.d9527ba4.chunk.js",
-    "main.js.map": "/qlda/static/js/main.d9527ba4.chunk.js.map",
+    "main.js": "/qlda/static/js/main.fc859d54.chunk.js",
+    "main.js.map": "/qlda/static/js/main.fc859d54.chunk.js.map",
     "runtime-main.js": "/qlda/static/js/runtime-main.c78c7685.js",
     "runtime-main.js.map": "/qlda/static/js/runtime-main.c78c7685.js.map",
     "static/css/2.bea6f0b1.chunk.css": "/qlda/static/css/2.bea6f0b1.chunk.css",
@@ -11,7 +11,7 @@
     "static/js/3.ed57f20e.chunk.js": "/qlda/static/js/3.ed57f20e.chunk.js",
     "static/js/3.ed57f20e.chunk.js.map": "/qlda/static/js/3.ed57f20e.chunk.js.map",
     "index.html": "/qlda/index.html",
-    "precache-manifest.5963e1bbd8a258226d46879815c9a1fc.js": "/qlda/precache-manifest.5963e1bbd8a258226d46879815c9a1fc.js",
+    "precache-manifest.ab35c7ec1a598ac991ad455755397786.js": "/qlda/precache-manifest.ab35c7ec1a598ac991ad455755397786.js",
     "service-worker.js": "/qlda/service-worker.js",
     "static/css/2.bea6f0b1.chunk.css.map": "/qlda/static/css/2.bea6f0b1.chunk.css.map",
     "static/css/main.220dd7ce.chunk.css.map": "/qlda/static/css/main.220dd7ce.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.bea6f0b1.chunk.css",
     "static/js/2.6e5c4446.chunk.js",
     "static/css/main.220dd7ce.chunk.css",
-    "static/js/main.d9527ba4.chunk.js"
+    "static/js/main.fc859d54.chunk.js"
   ]
 }
