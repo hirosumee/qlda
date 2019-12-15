@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/qlda/static/css/main.220dd7ce.chunk.css",
-    "main.js": "/qlda/static/js/main.f300dc84.chunk.js",
-    "main.js.map": "/qlda/static/js/main.f300dc84.chunk.js.map",
-    "runtime-main.js": "/qlda/static/js/runtime-main.c78c7685.js",
-    "runtime-main.js.map": "/qlda/static/js/runtime-main.c78c7685.js.map",
+    "main.css": "/qlda/static/css/main.e28e0edf.chunk.css",
+    "main.js": "/qlda/static/js/main.4c50c504.chunk.js",
+    "main.js.map": "/qlda/static/js/main.4c50c504.chunk.js.map",
+    "runtime-main.js": "/qlda/static/js/runtime-main.d5d59992.js",
+    "runtime-main.js.map": "/qlda/static/js/runtime-main.d5d59992.js.map",
     "static/css/2.bea6f0b1.chunk.css": "/qlda/static/css/2.bea6f0b1.chunk.css",
-    "static/js/2.6e5c4446.chunk.js": "/qlda/static/js/2.6e5c4446.chunk.js",
-    "static/js/2.6e5c4446.chunk.js.map": "/qlda/static/js/2.6e5c4446.chunk.js.map",
-    "static/js/3.ed57f20e.chunk.js": "/qlda/static/js/3.ed57f20e.chunk.js",
-    "static/js/3.ed57f20e.chunk.js.map": "/qlda/static/js/3.ed57f20e.chunk.js.map",
+    "static/js/2.f6b7d44e.chunk.js": "/qlda/static/js/2.f6b7d44e.chunk.js",
+    "static/js/2.f6b7d44e.chunk.js.map": "/qlda/static/js/2.f6b7d44e.chunk.js.map",
+    "static/js/3.3acba978.chunk.js": "/qlda/static/js/3.3acba978.chunk.js",
+    "static/js/3.3acba978.chunk.js.map": "/qlda/static/js/3.3acba978.chunk.js.map",
     "index.html": "/qlda/index.html",
-    "precache-manifest.9a20a30864810908cd42044563471716.js": "/qlda/precache-manifest.9a20a30864810908cd42044563471716.js",
+    "precache-manifest.779fbda589c4ac518cfd952bc0d15989.js": "/qlda/precache-manifest.779fbda589c4ac518cfd952bc0d15989.js",
     "service-worker.js": "/qlda/service-worker.js",
     "static/css/2.bea6f0b1.chunk.css.map": "/qlda/static/css/2.bea6f0b1.chunk.css.map",
-    "static/css/main.220dd7ce.chunk.css.map": "/qlda/static/css/main.220dd7ce.chunk.css.map",
-    "static/js/2.6e5c4446.chunk.js.LICENSE": "/qlda/static/js/2.6e5c4446.chunk.js.LICENSE",
+    "static/css/main.e28e0edf.chunk.css.map": "/qlda/static/css/main.e28e0edf.chunk.css.map",
+    "static/js/2.f6b7d44e.chunk.js.LICENSE": "/qlda/static/js/2.f6b7d44e.chunk.js.LICENSE",
     "static/media/logo.svg": "/qlda/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c78c7685.js",
+    "static/js/runtime-main.d5d59992.js",
     "static/css/2.bea6f0b1.chunk.css",
-    "static/js/2.6e5c4446.chunk.js",
-    "static/css/main.220dd7ce.chunk.css",
-    "static/js/main.f300dc84.chunk.js"
+    "static/js/2.f6b7d44e.chunk.js",
+    "static/css/main.e28e0edf.chunk.css",
+    "static/js/main.4c50c504.chunk.js"
   ]
 }
