@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "qlda/static/css/main.220dd7ce.chunk.css",
-    "main.js": "qlda/static/js/main.cacb2f03.chunk.js",
-    "main.js.map": "qlda/static/js/main.cacb2f03.chunk.js.map",
-    "runtime-main.js": "qlda/static/js/runtime-main.0297d50b.js",
-    "runtime-main.js.map": "qlda/static/js/runtime-main.0297d50b.js.map",
-    "static/css/2.bea6f0b1.chunk.css": "qlda/static/css/2.bea6f0b1.chunk.css",
-    "static/js/2.59d315ed.chunk.js": "qlda/static/js/2.59d315ed.chunk.js",
-    "static/js/2.59d315ed.chunk.js.map": "qlda/static/js/2.59d315ed.chunk.js.map",
-    "static/js/3.ed57f20e.chunk.js": "qlda/static/js/3.ed57f20e.chunk.js",
-    "static/js/3.ed57f20e.chunk.js.map": "qlda/static/js/3.ed57f20e.chunk.js.map",
-    "index.html": "qlda/index.html",
-    "precache-manifest.680a92b2c1276ef42b53cda8d5043415.js": "qlda/precache-manifest.680a92b2c1276ef42b53cda8d5043415.js",
-    "service-worker.js": "qlda/service-worker.js",
-    "static/css/2.bea6f0b1.chunk.css.map": "qlda/static/css/2.bea6f0b1.chunk.css.map",
-    "static/css/main.220dd7ce.chunk.css.map": "qlda/static/css/main.220dd7ce.chunk.css.map",
-    "static/js/2.59d315ed.chunk.js.LICENSE": "qlda/static/js/2.59d315ed.chunk.js.LICENSE",
-    "static/media/logo.svg": "qlda/static/media/logo.5d5d9eef.svg"
+    "main.css": "/qlda/static/css/main.220dd7ce.chunk.css",
+    "main.js": "/qlda/static/js/main.d9527ba4.chunk.js",
+    "main.js.map": "/qlda/static/js/main.d9527ba4.chunk.js.map",
+    "runtime-main.js": "/qlda/static/js/runtime-main.c78c7685.js",
+    "runtime-main.js.map": "/qlda/static/js/runtime-main.c78c7685.js.map",
+    "static/css/2.bea6f0b1.chunk.css": "/qlda/static/css/2.bea6f0b1.chunk.css",
+    "static/js/2.6e5c4446.chunk.js": "/qlda/static/js/2.6e5c4446.chunk.js",
+    "static/js/2.6e5c4446.chunk.js.map": "/qlda/static/js/2.6e5c4446.chunk.js.map",
+    "static/js/3.ed57f20e.chunk.js": "/qlda/static/js/3.ed57f20e.chunk.js",
+    "static/js/3.ed57f20e.chunk.js.map": "/qlda/static/js/3.ed57f20e.chunk.js.map",
+    "index.html": "/qlda/index.html",
+    "precache-manifest.5963e1bbd8a258226d46879815c9a1fc.js": "/qlda/precache-manifest.5963e1bbd8a258226d46879815c9a1fc.js",
+    "service-worker.js": "/qlda/service-worker.js",
+    "static/css/2.bea6f0b1.chunk.css.map": "/qlda/static/css/2.bea6f0b1.chunk.css.map",
+    "static/css/main.220dd7ce.chunk.css.map": "/qlda/static/css/main.220dd7ce.chunk.css.map",
+    "static/js/2.6e5c4446.chunk.js.LICENSE": "/qlda/static/js/2.6e5c4446.chunk.js.LICENSE",
+    "static/media/logo.svg": "/qlda/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0297d50b.js",
+    "static/js/runtime-main.c78c7685.js",
     "static/css/2.bea6f0b1.chunk.css",
-    "static/js/2.59d315ed.chunk.js",
+    "static/js/2.6e5c4446.chunk.js",
     "static/css/main.220dd7ce.chunk.css",
-    "static/js/main.cacb2f03.chunk.js"
+    "static/js/main.d9527ba4.chunk.js"
   ]
 }
