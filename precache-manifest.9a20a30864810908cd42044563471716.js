@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a894dbc4541eb6851174d78643204dc",
+    "revision": "5c63afd2f5b9238e242b7e6444248979",
     "url": "/qlda/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/qlda/static/css/2.bea6f0b1.chunk.css"
   },
   {
-    "revision": "b37198dc2701f8918cb3",
+    "revision": "988e7cc231f860b8929b",
     "url": "/qlda/static/css/main.220dd7ce.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/qlda/static/js/3.ed57f20e.chunk.js"
   },
   {
-    "revision": "b37198dc2701f8918cb3",
-    "url": "/qlda/static/js/main.63f2e4b0.chunk.js"
+    "revision": "988e7cc231f860b8929b",
+    "url": "/qlda/static/js/main.f300dc84.chunk.js"
   },
   {
     "revision": "d54514e1c29c14fdc694",
